@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_show_weather">Показати погоду</string>
+
+    <string name="weather_sunny">Сонячно</string>
+    <string name="weather_sunny_short">Сонячно</string>
+
+    <string name="weather_cloudy">Часткова хмарність</string>
+    <string name="weather_cloudy_short">Хмарно</string>
+</resources>
